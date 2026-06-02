@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Profile views & social badges -->
-<a href="https://github.com/DDD-Community/DDD-13-F1-BE"><img src="https://komarev.com/ghpvc/?username=ja2hoon&label=Profile+views&color=6366f1&style=flat" alt="profile views"/></a>
+<a href="https://github.com/ja2hoon"><img src="https://komarev.com/ghpvc/?username=ja2hoon&label=Profile+views&color=6366f1&style=flat" alt="profile views"/></a>
 <a href="https://ja2hoon.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="tistory blog"/></a>
 
 </div>
@@ -39,7 +39,7 @@ public class Jaehoon {
 - 🧩 Spring Boot, JPA/QueryDSL, MyBatis, PostgreSQL 기반 백엔드 API 개발
 - 🤖 Groq / Gemini API 활용 PDF OCR·분류 파이프라인 구현
 - 🛠️ Linux 서버 배포, 로그 분석, 장애 대응, 데이터 이관 등 운영 환경 문제 해결 경험
-- 📦 **사이드 프로젝트:** [Quiket](https://github.com/ja2hoon) — AI 기반 퀴즈 생성 앱 (DDD 13기)
+- 📦 **사이드 프로젝트:** [Quiket](https://github.com/DDD-Community/DDD-13-F1-BE) — AI 기반 퀴즈 생성 앱 (DDD 13기)
 - ✍️ 기술 블로그 : [ja2hoon.tistory.com](https://ja2hoon.tistory.com)
 
 ---
