@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Profile views & social badges -->
-<a href="https://github.com/ja2hoon"><img src="https://komarev.com/ghpvc/?username=ja2hoon&label=Profile+views&color=6366f1&style=flat" alt="profile views"/></a>
+<a href="https://github.com/DDD-Community/DDD-13-F1-BE"><img src="https://komarev.com/ghpvc/?username=ja2hoon&label=Profile+views&color=6366f1&style=flat" alt="profile views"/></a>
 <a href="https://ja2hoon.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="tistory blog"/></a>
 
 </div>
