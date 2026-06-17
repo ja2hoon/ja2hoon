@@ -41,7 +41,7 @@ public class Jaehoon {
 - 🛠️ Linux 서버 배포, 로그 분석, 장애 대응, 데이터 이관 등 운영 환경 문제 해결 경험
 - 📦 **사이드 프로젝트:** AI 기반 퀴즈 생성 앱 (DDD 13기)
   - [Quiket Git](https://github.com/DDD-Community/DDD-13-F1-BE)
-  - [Quiket Landing Page](https://quiket.co.kr/)
+  - [Quiket Service Introduction](https://quiket.co.kr/)
 - ✍️ 기술 블로그 : [ja2hoon.tistory.com](https://ja2hoon.tistory.com)
 
 ---
